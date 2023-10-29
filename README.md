@@ -14,4 +14,4 @@
 Пример обработанного запроса:
 
 
-![Пример обработанного запроса:](https://github.com/Lapohuy/Docker-Tasks-Not-Compleate-/assets/61329224/2b8a25b5-15ad-41f1-8ae5-d407f616d809)
+![Пример обработанного запроса:](https://github.com/Lapohuy/Docker-Tasks-not-compleated-yet-/blob/main/%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81_.PNG)
